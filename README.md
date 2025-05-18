@@ -1,13 +1,13 @@
 # Moin, I’m Sinan
 
-I’m a Media Engineer who thrives at the intersection of AI, design, and usability. I specialize in building native iOS applications, AI-integrated systems, and digital tools that prioritize **efficiency**, **privacy**, and **clarity**.
+I’m a Software Engineer from Kiel, Germany who thrives at the intersection of AI, design, and usability. I specialize in building native iOS applications, AI-integrated systems, and digital tools that prioritize **efficiency**, **privacy**, and **clarity**.
 
 ---
 
 ## 🚀 What I’m Building
 
 ### [📱 Weitsicht](https://www.weitsicht-app.com)
-A privacy-first nutrition tracker powered by AI.  
+A transparency-first nutrition tracker powered by AI.  
 Track meals via photo or text, and get detailed analysis on:
 
 - 🔬 Macros & micros (vitamins, minerals, etc.)
